@@ -1,22 +1,26 @@
 # Game-Dev
 
-
-
 Author - Jay Fox
 
+Game Title - The Forgotten Shinobi
+
+Genre: 2D Side Scroller, Single Player
+
+Hello there, thank you for taking the time to read this README file within this little document. An overview of the game will be given to start off. This is a game set in the feudal era of Japan, which was 
+stricken by war, and you play as a long-forgotten shinobi, one who was forgotten by the country they fought so hard for. Throughout this game, you will rediscover just what it means to be a shinobi and just
+How truly twisted this world has become, and see what some people will do to survive the new world.
+
+System Requirements - This is not a very intensive game, so it should be able to run on most devices.
+
+To install this game, just pull from this repository and go into the My Project (2) file and there you should find the .EXE file titled My Project.
+
+Controls -
+
+Right Arrow Key - Move Right
+Left Arrow Key - Move Left
+Up Arrow Key - Jump
+Space - Attack
+
+Issues post testing sometimes, when defeated, the enemies will constantly attack where the player has gone down, and an easy solution to this is to use the Quick Restart button located top right of the screen.
+
 Contact Info -  JF335885@falmouth.ac.uk
-
-
-
-
-
-No known if there is contact me using my email.
-
-
-
-There is already a built version within this GitHub file 
-
-
-
-No instructions to run the controls are WASD and also the arrow keys and also the space bar
-
