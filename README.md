@@ -14,7 +14,7 @@ Gameplay Loop - This game will be level-to-level action and platforming, so the 
 
 System Requirements - This is not a very intensive game, so it should be able to run on most devices.
 
-To install this game, just pull from this repository and go into the My Project (2) file and there you should find the .EXE file titled My Project.
+To install this game, use the password RedHood7! then download the files unzip them then click on the My Project.EXE
 
 Controls -
 
