@@ -10,6 +10,8 @@ Hello there, thank you for taking the time to read this README file within this 
 stricken by war, and you play as a long-forgotten shinobi, one who was forgotten by the country they fought so hard for. Throughout this game, you will rediscover just what it means to be a shinobi and just
 How truly twisted this world has become, and see what some people will do to survive the new world.
 
+Gameplay Loop - This game will be level-to-level action and platforming, so the player will have to be on their A-game and watch their step, as even the background could be a hint to the future state of this land.
+
 System Requirements - This is not a very intensive game, so it should be able to run on most devices.
 
 To install this game, just pull from this repository and go into the My Project (2) file and there you should find the .EXE file titled My Project.
