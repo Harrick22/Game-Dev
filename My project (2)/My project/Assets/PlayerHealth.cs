@@ -5,28 +5,40 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-
+    public Animator animator;
     public int maxhealth = 100;
-    int currentHealth;
+    public int currentHealth;
+
+    [SerializeField]
+    private HealthBarUI healthBar;
 
     void Start()
     {
         currentHealth = maxhealth;
+        healthBar.SetMaxHealth(maxhealth);
     }
 
     public void TakeDamage(int damage)
     {
-        maxhealth -= damage;
+        currentHealth -= damage;
 
-        if (maxhealth <= 0)
+        healthBar.SetMaxHealth(currentHealth);
+
+        if (currentHealth <= 0)
         {
-            Die();
+            Destroy(gameObject);
         }
     }
 
     void Die()
     {
+        if (animator != null)
+        {
+            animator.SetBool("IsDead", true);
+        }
 
+        GetComponent<Collider2D>().enabled = false;
+        this.enabled = false;
     }
 
 }
