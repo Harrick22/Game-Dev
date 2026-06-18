@@ -23,6 +23,12 @@ Left Arrow Key - Move Left
 Up Arrow Key - Jump
 Space - Attack
 
+Third Party Assets -
+
+The Player and Enemy Sprites, 
+The background picture of the main menu screens 
+The Footstep noises.
+
 Issues post testing sometimes, when defeated, the enemies will constantly attack where the player has gone down, and an easy solution to this is to use the Quick Restart button located top right of the screen.
 
 Contact Info -  JF335885@falmouth.ac.uk
